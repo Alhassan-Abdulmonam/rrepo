@@ -1,1 +1,2 @@
 First line in file1.txt
+Second Line added to file1.txt
